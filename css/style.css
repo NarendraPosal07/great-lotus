@@ -1,0 +1,18 @@
+
+:root{
+    
+}
+.btn .i-1{
+    width: 50px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    --bs-link-color-rgb: #4a4036;
+}
+button{
+    padding: 18px 35px;
+}
+nav{
+    --bs-link-color: #4a4036;
+}
